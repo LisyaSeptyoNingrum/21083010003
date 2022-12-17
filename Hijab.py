@@ -166,7 +166,7 @@ def aksesoris():
     else:
         menu_awal()
 
-def dafar_diskon():
+def daftar_diskon():
     print("+---------------------------------------------------+")
     print("|          Daftar Diskon By El-Lisya Hijab          |")
     print("+---------------------------------------------------+")
